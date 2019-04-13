@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Ichsan Ramdani</title>
+	<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+	<div class="header">
+		<h1 class="judul">Cara Ikut AWR 2018</h1>
+	</div>
+
+	<div class="countainer">
+
+		<div class="box">
+			<div class="img1"></div>
+
+			<div class="step1">
+				<span>Step 1</span>
+				</br>
+				<p> Klik tombol DAFTAR pada halaman Beranda atau tentang AWR</p>
+			</div>
+
+		</div>
+
+		<div class="box">
+			<div class="img2"></div>
+
+			<div class="step2">
+				<span>Step 2</span>
+				</br>
+				<p> Isi form data diri anda secara lengkap dan benar</p>
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class="footer">
+
+		<div class="img3"></div>
+		<div class="about">
+			<span>Tentang AWR 2018</span>
+			</br>
+			<h1>Allianz Wolrd Run 2018<h1>
+			</br>
+			<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. </p>
+			<ul>
+				<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
+				<li>Maecenas vel magna sollicitudin, pretium risus vitae, efficitur orci.</li>
+				<li>Vivamus nec lectus sagittis, dictum tortor in, sollicitudin lacus.</li>
+				<li>In pharetra eros nec vestibulum lacinia.</li>
+			</ul>
+		</div>	
+	</div>
+
+</body>
+</html>
